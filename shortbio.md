@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shortbio
+title: Short Bio
 permalink: /shortbio/
 ---
 
