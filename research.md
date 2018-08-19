@@ -1,23 +1,34 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Research 
+subtitle: My research projects
 ---
 
+This is a selected list of the research projects I was involved
 
-## Research Experience
+## Current research projects
 
-* **July 2018 - cont.: Kavli Postdoctoral Fellow.** [Kavli Institute of Nanoscience Delft (KIND)](http://kavli.tudelft.nl/). [Technical University Delft](https://www.tudelft.nl/), The Netherlands.
 
-* **May 2015 - June 2018: Postdoctoral researcher.** [Single-molecule Optics](http://www.single-molecule.nl) group, [Leiden Institute of Physics](https://www.universiteitleiden.nl/en/science/physics), Leiden University](https://www.universiteitleiden.nl/en) . 
 
-* **April 2010 - March 2015: PhD in Physics**. Quantum Electronics Laboratory](http://www.lec.df.uba.ar/en). [Faculty of Exact and Natural Sciences](https://exactas.uba.ar/). [University of Buenos Aires](http://www.uba.ar/)
-	_Dissertation title:_ 'Design and application of advanced microscopies for problems in cellular mechanotransduction and nanoplasmonics'(full text in Spanish)
-	_Advisor:_ Prof. Dr. Andrea V. Bragas
+## Past research projects 
 
-* **March 2005 - March 2010: _Licencitura_ in Physics.** Faculty of Exact and Natural Sciences, University of Buenos Aires.
-	_Dissertation title:_ 'Solitonic light source tunable by power.' 
-	_Advisor:_ Prof. Dr. Andrea V. Bragas
+### Single-molecule Optics group
+
+While a postdoc at [Michel Orrti's group](https://www.single-molecule.nl/) at Leiden Institute of Physics ([LION](http://physics.leidenuniv.nl/)), I was part of the following research projects.
+
+
+#### Single-molecule electrochemistry
+
+
+* [Press release at LION](https://www.universiteitleiden.nl/en/news/2017/02/gold-nano-antennas-reveal-single-molecules%E2%80%99-electrochemical-properties)
+
+* Publication: Zhang, W., **Caldarola, M**., Pradhan, B. and M. Orrit. Gold Nanorod Enhanced
+Fluorescence Enables Single-Molecule Electrochemistry of Methylene Blue. Angewandte
+Chemie International Edition, 56(13), 3566-3569. ([link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201612389))
+
+
+
+
 
 ## Research interests
 
@@ -25,4 +36,3 @@ permalink: /research/
 * Nanophotonics: nanoscale confinement of light.
 * Light-matter interactions in the nanoscale. Enhancement of optical signals using nanoantennas.  
 * Heat generation and propagation in the nanoscale.
-

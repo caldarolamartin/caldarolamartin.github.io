@@ -3,7 +3,7 @@ layout: post
 title: Weichun's defense
 subtitle: We have a new PhD among us.
 image: /img/weichun_cover.png
-bigimg: /img/weichun_defense_pic
+bigimg: /img/weichun_defense_pic.png
 tags: [Weichun Zhang, PhD defense, Leiden University, Academic Gebouw]
 ---
 

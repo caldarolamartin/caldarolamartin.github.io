@@ -4,7 +4,7 @@ title: Test markdown
 subtitle: Make your pages look beautiful, no effort.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test, markdown]
+tags: [test, markdown, github pages]
 ---
 
 This is a small test to see the output of a markdown-style file.
