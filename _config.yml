@@ -25,14 +25,14 @@ description: A minimalistic website
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Publications: "http://deanattali.com/beautiful-jekyll/"
-    - Research Projects: "http://www.markdowntutorial.com/"
-    - Short CV: "https://pages.github.com/"
-  News: "http://deanattali.com"
+    - Publications: "publications"
+    - Research Projects: "research"
+    - Short bio: "shortbio"
+ # News: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/MC_pic_lion_web.png"
+avatar: "/img/MC_pic_lion_web.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
