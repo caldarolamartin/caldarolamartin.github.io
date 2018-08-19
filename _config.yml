@@ -17,7 +17,7 @@ baseurl: ""
 title: Martín Caldarola
 
 # Short description of your site
-description: A minimalistic website
+description: My minimalistic website
 
 # --- Navigation bar options --- #
 
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "caldarolamartin.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
