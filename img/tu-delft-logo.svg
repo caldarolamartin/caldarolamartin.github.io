@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="143.75697mm"
-   height="137.23056mm"
-   viewBox="0 0 143.75697 137.23056"
+   width="52.916668mm"
+   height="50.514305mm"
+   viewBox="0 0 52.916667 50.514305"
    version="1.1"
    id="svg8"
    inkscape:export-filename="C:\Martin\caldarolamartin.github.io\img\tu-deflt-logo-square.png"
@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-382.38089"
-     inkscape:cy="-3.5237939"
+     inkscape:zoom="5.1258889"
+     inkscape:cx="110.16579"
+     inkscape:cy="85.289188"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -72,7 +72,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-21.79661,-10.670436)">
+     transform="translate(-21.79661,-97.38669)">
     <image
        y="10.670436"
        x="21.79661"
@@ -81,6 +81,7 @@
        preserveAspectRatio="none"
        height="137.23056"
        width="351.01392"
-       clip-path="url(#clipPath828)" />
+       clip-path="url(#clipPath828)"
+       transform="matrix(0.36809808,0,0,0.36809808,13.77332,93.458923)" />
   </g>
 </svg>
