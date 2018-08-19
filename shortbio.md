@@ -4,6 +4,13 @@ title: Shortbio
 permalink: /shortbio/
 ---
 
+## Education
+
+
+* 2010–2015 PhD in Physics, University of Buenos Aires, Argentina. Grade: Outstanding.
+
+* 2005–2010 _Licenciatura_ in Physics (Combined bachelor and master studies.), University of Buenos Aires, Argentina, GPA – 9.56/10.
+
 
 ## Research Experience
 
