@@ -4,7 +4,7 @@ title: Python For The Lab course at TU Delft
 subtitle: New ideas for experiments.
 image: /img/pythonforthelab.png
 bigimg: /img/photo-python-for-the-lab.jpg
-tags: [Python, Python For The Lab, research, physics, Lab techniques]
+tags: [Python, Python For The Lab, Research, Experiemental Physics, Lab Techniques]
 ---
 
 
