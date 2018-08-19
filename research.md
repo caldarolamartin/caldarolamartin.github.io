@@ -14,7 +14,6 @@ At TU delft I am working to develop a new optical technique to study protein (un
 
 ## Past research projects 
 
-
 ### Single-molecule Optics group
 
 While a postdoc at [Michel Orrti's group](https://www.single-molecule.nl/) at Leiden Institute of Physics ([LION](http://physics.leidenuniv.nl/)), I was part of the following research projects.
@@ -48,6 +47,7 @@ We used the anti-Stokes photoluminescence emission to measure the absolute tempe
 * Publication: Carattino, A., **Caldarola, M**. and Orrit, M. Gold nanoparticles as absolute nanothermometers.
 Nano Letters 18, 2, 874-880. (2018) ([link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b04145))
 
+
 #### Single-molecule electrochemistry
 
 We used enhanced-fluorescence detection to optical study the electrochemical properties of single methylene blue molecules. 
@@ -57,6 +57,7 @@ We used enhanced-fluorescence detection to optical study the electrochemical pro
 * Publication: Zhang, W., **Caldarola, M**., Pradhan, B. and M. Orrit. Gold Nanorod Enhanced
 Fluorescence Enables Single-Molecule Electrochemistry of Methylene Blue. Angewandte
 Chemie International Edition, 56(13), 3566-3569. ([link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201612389))
+
 
 ### Quantum electronics Laboratory
 
@@ -76,10 +77,12 @@ in real-time focal adhesion protein dynamics in response to a discrete mechanica
 stimulus_. Review of Scientific Instruments 88, 013703 (2017) ([link](https://aip.scitation.org/doi/abs/10.1063/1.4973664))
 
 
-
 ## Research interests
 
 * Single-molecule biophysics.
 * Nanophotonics: nanoscale confinement of light.
 * Light-matter interactions in the nanoscale. Enhancement of optical signals using nanoantennas.  
 * Heat generation and propagation in the nanoscale.
+* Sub-wavelength scale light behavior
+
+
