@@ -8,12 +8,10 @@ You can always write me an email: [m.caldarola@tudelft.nl](mailto:m.caldarola@tu
 
 ## Work address
 
-**Kavli Institute of Nanoscience**
+**Kavli Institute of Nanoscience Delft**
  
 Technical University Delft, 
-
 Faculty of Applied Sciences.
-
 Address: Lorentzweg 1, 2628 CJ Delft, The Netherlands
  
 Office @ QN: Building 22, Room F166
