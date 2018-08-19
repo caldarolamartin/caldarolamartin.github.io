@@ -2,6 +2,7 @@
 layout: page
 title: Research 
 subtitle: My research projects
+permalink: /research/
 ---
 
 This is a selected list of the research projects I was involved
