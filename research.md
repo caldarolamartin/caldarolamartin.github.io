@@ -23,7 +23,7 @@ While a postdoc at [Michel Orrti's group](https://www.single-molecule.nl/) at Le
 
 Recently we used the technique named DNA transient binding to repetitively place individual molecules in the near field of a single gold nanorod. 
 
-![Transient binding fluorescence enhancement cartoon]({{ site.baseurl }}/img/TOC_PCCP_transient.png "TOC Transient Binding" =472x237)
+![Transient binding fluorescence enhancement cartoon]({{ site.baseurl }}/img/TOC_PCCP_transient.png "TOC Transient Binding"){: height="472px" width="237px"}
 
 * Publication: Zhang, W., **Caldarola, M.**, Lu, X., Pradhan, B. and Orrit, M. _Single-molecule fluorescence enhancement of a near-infrared dye by gold nanorods using DNA transient binding_. Phys. Chem. Chem. Phys. 20, 20468-20475 (2018) ([link](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp03114b)).  
 
