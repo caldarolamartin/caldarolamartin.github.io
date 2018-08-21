@@ -49,7 +49,7 @@ Photon-Excited Luminescence of Single Quantum Dots by Individual Gold Nanorods_,
 
 We used the anti-Stokes photoluminescence emission to measure the absolute temperature of an individual gold nanorods. This method provides a way to access the temperature in the surrounding media of a gold nanorod without the need of any temperature calibration.
 
-![Gold nanorods as nanothermomether cartoon]({{ site.baseurl }}/img/Nanorod_as_thermometer.png "Au Nanorod as nanothermometer"): height="318px" width="360px"}
+![Gold nanorods as nanothermomether cartoon]({{ site.baseurl }}/img/Nanorod_as_thermometer.png "Au Nanorod as nanothermometer"){: height="318px" width="360px"}
 
 * Publication: Carattino, A., **Caldarola, M**. and Orrit, M. Gold nanoparticles as absolute nanothermometers.
 Nano Letters 18, 2, 874-880. (2018) ([link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b04145))
