@@ -14,7 +14,7 @@ At TU delft I am working to develop a new optical technique to study protein (un
 
 ## Past research projects 
 
-### Single-molecule Optics group
+### At Single-Molecule Optics Group, Leiden University
 
 While a postdoc at [Michel Orrti's group](https://www.single-molecule.nl/) at Leiden Institute of Physics ([LION](http://physics.leidenuniv.nl/)), I was part of the following research projects.
 
@@ -68,7 +68,7 @@ Fluorescence Enables Single-Molecule Electrochemistry of Methylene Blue. Angewan
 Chemie International Edition, 56(13), 3566-3569. ([link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201612389))
 
 
-### Quantum electronics Laboratory
+### At Quantum Electronics Laboratory, University of Buenos Aires
 
 During my PhD I worked on a combined multipropose microscope. It combined a home-made atomic force microscopy with a fluorescence wide field and confocal optical microscope. 
 
@@ -88,13 +88,5 @@ I also studied a complicated biophysical problem in the area of mechanotransduct
 in real-time focal adhesion protein dynamics in response to a discrete mechanical
 stimulus_. Review of Scientific Instruments 88, 013703 (2017) ([link](https://aip.scitation.org/doi/abs/10.1063/1.4973664))
 
-
-## Research interests
-
-* Single-molecule biophysics.
-* Nanophotonics: nanoscale confinement of light.
-* Light-matter interactions in the nanoscale. Enhancement of optical signals using nanoantennas.  
-* Heat generation and propagation in the nanoscale.
-* Sub-wavelength scale light behavior
 
 
