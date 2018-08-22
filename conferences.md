@@ -34,7 +34,7 @@ This is a selected list of my presentations at scientific meetings.
 	Title: _"Single-molecule electrochemistry with enhanced fluorescent readout"_
 
 * **Contributed talk.** National Dutch Physics conference (physics@Veldhoven), 17-18 January, Veldhoven, The Netherlands.
-	Title" _"Gold nanorod fluorescence enhancement enables single-molecule electrochemistry of Methylene Blue"_
+	Title: _"Gold nanorod fluorescence enhancement enables single-molecule electrochemistry of Methylene Blue"_
 
 * **Poster presentation.** Discussions on Nano and Mesoscopic Optics ([DINAMO](https://dinamo2017.wordpress.com/)), 14-19 May, Siglofjordur, Iceland.
 	Title: _"Methylene Blue electrochemistry at single-molecule level enabled by fluorescence enhancement"_
