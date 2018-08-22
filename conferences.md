@@ -8,12 +8,13 @@ This is a selected list of my presentations at scientific meetings.
 
 
 ## 2018
-
+{% comment %} 
 * **Invited talk.** [Metanano](https://metanano.ifmo.ru/), 17-21 September at Sochi, Russia.
 	Title: _"Gold nanorods as absolute nanothermometers"_
 
 * **Contributed talk.** [NFO 15](http://nfo15.utt.fr/), 27-31 August at Troyes, France.
 	Title: _"Gold nanorods as absolute nanothermometers"_
+{% endcomment %}
 
 * **Invited talk.** [PANIC meeting](http://panic.pwr.edu.pl/), 5-6 July, Wrocław University of Science and Technology, Wrocław, Poland.
 	Title: _"Gold nanorods as versatile tools for nano-optics"_
@@ -21,17 +22,18 @@ This is a selected list of my presentations at scientific meetings.
 * **Poster presentation.** [NanoPlasm conference](http://www.nanoplasmconference.com/index.php), 10-15 July, Centaro, Italy. 
 	Title: _"Nanothermometry using single gold nanorods"_
 
-* **Poster presentation.** Physics@Veldhoven, 20
+* **Poster presentation.** National Dutch Physics conference (physics@Veldhoven), 23-24 January, Veldhoven, The Netherlands.
 	Title: _"Quantifying fluorescence enhancement for diffusing single molecules in plasmonic near fields"_
 
 ## 	2017
 
-* **Contributed talk.**	[Nanophotonics and Micro/Nano Optics International Conference 2017](), October, Barcelona, Spain.
+* **Contributed talk.**	Nanophotonics and Micro/Nano Optics International Conference 2017 ([NANOP](https://premc.org/conferences/nanop2017/#menu)), 13-15 September, Barcelona, Spain.
 	Title: _"Plasmonic fluorescence enhancement for single-molecule electrochemistry"_
 
-* **Contributed talk.** NanoFront winter retreat, Courchevel, France.
+* **Contributed talk.** [NanoFront](https://casimir.researchschool.nl/nanofront-1962.html) winter retreat, 28-31 March, Courchevel, France.
+	Title: _"Single-molecule electrochemistry with enhanced fluorescent readout"_
 
-* **Contributed talk.** National Dutch Physics conference (physics@Veldhoven), January, Veldhoven, The Netherlands.
+* **Contributed talk.** National Dutch Physics conference (physics@Veldhoven), 17-18 January, Veldhoven, The Netherlands.
 	Title" _"Gold nanorod fluorescence enhancement enables single-molecule electrochemistry of Methylene Blue"_
 
 * **Poster presentation.** Discussions on Nano and Mesoscopic Optics ([DINAMO](https://dinamo2017.wordpress.com/)), 14-19 May, Siglofjordur, Iceland.
@@ -46,8 +48,7 @@ This is a selected list of my presentations at scientific meetings.
 * **Contributed talk.** The Third International Workshop on Metallic Nano-Objects ([MNO 2016)](https://mno-2016.sciencesconf.org/)) 2-4 November, Lyon, France.
 	Title: _"Single-molecule electrochemistry with enhanced fluorescence output"_
 
-
-* **Invited seminar.** Research seminar at the Center for Bionanoscience Research, National Scientific and Technical Research Council (CONICET), Buenos Aires, Argentina.
+* **Invited seminar.** Research seminar at the [Center for Bionanoscience Research](http://www.cibion-conicet.gob.ar/?lan=en), 18 October, Buenos Aires, Argentina.
 	Title: _"Single-molecule electrochemical study of Methylene Blue"_
 	
 * **Invited talk.** 7th International Conference on Metamaterials, Photonics Crystals and Plasmonics ([META](https://metaconferences.org/ocs/index.php/META16/META16)), 25-28 July, Malaga, Spain.
