@@ -11,10 +11,9 @@ This is a selected list of my presentations at scientific meetings.
 {% comment %} 
 * **Invited talk.** [Metanano](https://metanano.ifmo.ru/), 17-21 September at Sochi, Russia.
 	Title: _"Gold nanorods as absolute nanothermometers"_
-
+{% endcomment %}
 * **Contributed talk.** [NFO 15](http://nfo15.utt.fr/), 27-31 August at Troyes, France.
 	Title: _"Gold nanorods as absolute nanothermometers"_
-{% endcomment %}
 
 * **Invited talk.** [PANIC meeting](http://panic.pwr.edu.pl/), 5-6 July, Wrocław University of Science and Technology, Wrocław, Poland.
 	Title: _"Gold nanorods as versatile tools for nano-optics"_
