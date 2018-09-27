@@ -82,7 +82,7 @@ Oulton, R.F., Bragas, A.V. and Maier, S.A. _Non-plasmonic nanoantennas for surfa
 enhanced spectroscopies with ultra-low heat conversion_. Nature Communications, 6:7915 (2015)
 ([link](https://www.nature.com/articles/ncomms8915)).
 
-I also studied a complicated biophysical problem in the area of mechanotransduction. We studied the formation of focal adhesion proteins when we apply a controlled, local and functional mechanical stimulus on a live cell.
+I also collaborated with biophysics researches, working on a problem in the area of mechanotransduction. We studied the formation of focal adhesion proteins when we apply a controlled, local and functional mechanical stimulus on a live cell.
 
 * Publication: von Bilderling, C., **Caldarola, M**., Masip, M. E., Bragas, A. V., Pietrasanta, L. I., _Monitoring
 in real-time focal adhesion protein dynamics in response to a discrete mechanical
