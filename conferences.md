@@ -9,6 +9,12 @@ This is a selected list of my presentations at scientific meetings.
 
 ## 2018
 
+* **Invited talk.** Official launch of the [Network of Argentine Scientist and Researchers in The Netherlands](https://redrcapb.wordpress.com/). 
+	Title: _"Nanoantennas for single-molecule detection"_
+
+* **Contributed talk.** [NVV AMO2018](https://www.ru.nl/amolunteren/), 25-26 September at Lunteren, The Netherlands.
+	Title: _"Nanothermometry with single gold nanorods"_
+
 * **Invited talk.** [Metanano](https://metanano.ifmo.ru/), 17-21 September at Sochi, Russia.
 	Title: _"Gold nanorods as absolute nanothermometers"_
 
