@@ -1,10 +1,18 @@
----
+	---
 layout: page
 title: Conferences
 permalink: /conferences/
 ---
 
 This is a selected list of my presentations at scientific meetings.
+
+## 2019
+
+* **Invited talk.** [NanoFront Winter Retreat](https://casimir.researchschool.nl/nanofront-winter-retreat-3016.html). 
+	Title: _"Towards label-free detection of single-protein (un) folding dynamics"_
+
+* **Focus Session Organizer and Chair.** Together with Kobus Kuipers we organized the Focus Session 'Chirality in light-matter interactions: detection and applications' 
+    at the conference [Physics@Veldhoven](https://www.nwo.nl/en/news-and-events/events/physicsveldhoven/archives). 
 
 
 ## 2018
@@ -24,7 +32,7 @@ This is a selected list of my presentations at scientific meetings.
 * **Invited talk.** [PANIC meeting](http://panic.pwr.edu.pl/), 5-6 July, Wrocław University of Science and Technology, Wrocław, Poland.
 	Title: _"Gold nanorods as versatile tools for nano-optics"_
 
-* **Poster presentation.** [NanoPlasm conference](http://www.nanoplasmconference.com/index.php), 10-15 July, Centaro, Italy. 
+* **Poster presentation.** [NanoPlasm conference](http://www.nanoplasmconference.com/index.php), 10-15 June, Centaro, Italy. 
 	Title: _"Nanothermometry using single gold nanorods"_
 
 * **Poster presentation.** National Dutch Physics conference (physics@Veldhoven), 23-24 January, Veldhoven, The Netherlands.
