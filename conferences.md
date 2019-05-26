@@ -8,8 +8,12 @@ This is a selected list of my presentations at scientific meetings.
 
 ## 2019
 
+
+* **Invited talk.** [Pre-program of the Kavli Institute of Nanoscience Delft colloquia](http://kavli.tudelft.nl/kavli-colloquia/). 
+	Title: _"Label-free detection of single-protein folding dynamics"_. Date: 24th May 2019
+
 * **Invited talk.** [NanoFront Winter Retreat](https://casimir.researchschool.nl/nanofront-winter-retreat-3016.html). 
-	Title: _"Towards label-free detection of single-protein (un) folding dynamics"_
+	Title: _"Towards label-free detection of single-protein (un) folding dynamics"_
 
 * **Focus Session Organizer and Chair.** Together with Kobus Kuipers we organized the Focus Session 'Chirality in light-matter interactions: detection and applications' 
     at the conference [Physics@Veldhoven](https://www.nwo.nl/en/news-and-events/events/physicsveldhoven/archives). 
@@ -43,20 +47,20 @@ This is a selected list of my presentations at scientific meetings.
 * **Contributed talk.**	Nanophotonics and Micro/Nano Optics International Conference 2017 ([NANOP](https://premc.org/conferences/nanop2017/#menu)), 13-15 September, Barcelona, Spain.
 	Title: _"Plasmonic fluorescence enhancement for single-molecule electrochemistry"_
 
-* **Contributed talk.** [NanoFront](https://casimir.researchschool.nl/nanofront-1962.html) winter retreat, 28-31 March, Courchevel, France.
-	Title: _"Single-molecule electrochemistry with enhanced fluorescent readout"_
-
-* **Contributed talk.** National Dutch Physics conference (physics@Veldhoven), 17-18 January, Veldhoven, The Netherlands.
-	Title: _"Gold nanorod fluorescence enhancement enables single-molecule electrochemistry of Methylene Blue"_
-
 * **Poster presentation.** Discussions on Nano and Mesoscopic Optics ([DINAMO](https://dinamo2017.wordpress.com/)), 14-19 May, Siglofjordur, Iceland.
 	Title: _"Methylene Blue electrochemistry at single-molecule level enabled by fluorescence enhancement"_
+
+* **Contributed talk.** [NanoFront](https://casimir.researchschool.nl/nanofront-1962.html) winter retreat, 28-31 March, Courchevel, France.
+	Title: _"Single-molecule electrochemistry with enhanced fluorescent readout"_
+	
+* **Contributed talk.** National Dutch Physics conference (physics@Veldhoven), 17-18 January, Veldhoven, The Netherlands.
+	Title: _"Gold nanorod fluorescence enhancement enables single-molecule electrochemistry of Methylene Blue"_
 
 	
 ## 2016
 
 * **Contributed talk.** National Dutch Chemistry conference (CHAINS), 5-7 December, Veldhoven, The Netherlands.
-	Title" _"Single-molecule redox reaction detection by enhanced fluorescence"_	
+	Title: _"Single-molecule redox reaction detection by enhanced fluorescence"_	
 
 * **Contributed talk.** The Third International Workshop on Metallic Nano-Objects ([MNO 2016)](https://mno-2016.sciencesconf.org/)) 2-4 November, Lyon, France.
 	Title: _"Single-molecule electrochemistry with enhanced fluorescence output"_
