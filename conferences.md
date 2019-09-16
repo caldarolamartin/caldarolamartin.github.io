@@ -10,7 +10,7 @@ This is a selected list of my presentations at scientific meetings.
 
 
 * **Invited talk.** [Pre-program of the Kavli Institute of Nanoscience Delft colloquia](http://kavli.tudelft.nl/kavli-colloquia/). 
-	Title: _"Label-free detection of single-protein folding dynamics"_. Date: 24th May 2019
+	Title: _"Label-free detection of single-protein folding dynamics"_. 
 
 * **Invited talk.** [NanoFront Winter Retreat](https://casimir.researchschool.nl/nanofront-winter-retreat-3016.html). 
 	Title: _"Towards label-free detection of single-protein (un) folding dynamics"_
@@ -62,7 +62,7 @@ This is a selected list of my presentations at scientific meetings.
 * **Contributed talk.** National Dutch Chemistry conference (CHAINS), 5-7 December, Veldhoven, The Netherlands.
 	Title: _"Single-molecule redox reaction detection by enhanced fluorescence"_	
 
-* **Contributed talk.** The Third International Workshop on Metallic Nano-Objects ([MNO 2016)](https://mno-2016.sciencesconf.org/)) 2-4 November, Lyon, France.
+* **Contributed talk.** The Third International Workshop on Metallic Nano-Objects ([MNO 2016](https://mno-2016.sciencesconf.org/)) 2-4 November, Lyon, France.
 	Title: _"Single-molecule electrochemistry with enhanced fluorescence output"_
 
 * **Invited seminar.** Research seminar at the [Center for Bionanoscience Research](http://www.cibion-conicet.gob.ar/?lan=en), 18 October, Buenos Aires, Argentina.
