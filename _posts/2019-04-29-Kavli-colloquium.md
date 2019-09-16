@@ -2,7 +2,7 @@
 layout: post
 title: Kavli Colloquium at TU Delft
 image: /img/Kavli_colloquium_poster.png
-bigimg: /img/Kavli_colloquium_talk.png
+bigimg: /img/Kavli_colloquium_picutre_cropped.jpg
 tags: [Science, Research, Kavli Institute of Nanoscience Delft, TU Delft,Faculty of Applied Sciences]
 ---
 
