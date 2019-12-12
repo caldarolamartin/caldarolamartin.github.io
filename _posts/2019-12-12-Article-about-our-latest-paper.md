@@ -13,9 +13,8 @@ In [this](https://pubs.acs.org/doi/10.1021/acs.nanolett.9b03853) paper, we show 
 I would like acknowledged all my colleagues contributing to this paper, hopefully the first one of many and to especially thank [Jerwin de Graaf](https://www.tudelft.nl/staff/j.n.degraaf/?no_cache=1) from the TU Delft communication department who took the time to talk with me about our research project and write the nice article.
 
 Main image credit: Thomas Bauer @ TU Delft.
+
 Small image credit: [Orbicons](https://www.iconfinder.com/families/orbicons) 
-
-
  
 
  
