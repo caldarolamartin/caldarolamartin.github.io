@@ -9,7 +9,8 @@ permalink: /publications/
 
 ### 2019
 
-* Spaeth, P., Subhasis A., Laurent L., Jollans, T., Pud S., Albrecht, W., Bauer T., **Caldarola, M.**, Kuipers, L. , and Orrit, M. "Circular Dichroism Measurement of Single Metal Nanoparticles Using Photothermal Imaging." Nano Letters (2019) ([link](https://pubs.acs.org/doi/10.1021/acs.nanolett.9b03853)).
+
+* Spaeth, P., Subhasis A., Le L., Jollans, T., Pud S., Albrecht, W., Bauer T., **Caldarola, M.**, Kuipers, L. , and Orrit, M. "Circular Dichroism Measurement of Single Metal Nanoparticles Using Photothermal Imaging." Nano Letters (2019) ([link](https://pubs.acs.org/doi/10.1021/acs.nanolett.9b03853)).
 
 ### 2018
 
