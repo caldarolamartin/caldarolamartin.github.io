@@ -9,14 +9,14 @@ permalink: /publications/
 
 ### 2020
 
-* Jollans, T., **Caldarola, M.**, Sivan, Y., and Orrit, M. "Effective electron temperature measurement using time-resolved anti-Stokes photoluminescence." arXiv preprint arXiv:2003.08790 (2020) ([link](https://arxiv.org/abs/2003.08790)).
+* Jollans, T., **Caldarola, M.**, Sivan, Y., and Orrit, M. "Effective electron temperature measurement using time-resolved anti-Stokes photoluminescence." arXiv preprint arXiv:2003.08790 ([link](https://arxiv.org/abs/2003.08790)).
 
 ## Peer reviewed articles
 
 ### 2019
 
 
-* Spaeth, P., Subhasis A., Le L., Jollans, T., Pud S., Albrecht, W., Bauer T., **Caldarola, M.**, Kuipers, L. , and Orrit, M. "Circular Dichroism Measurement of Single Metal Nanoparticles Using Photothermal Imaging." Nano Letters (2019) ([link](https://pubs.acs.org/doi/10.1021/acs.nanolett.9b03853)).
+* Spaeth, P., Subhasis A., Le L., Jollans, T., Pud S., Albrecht, W., Bauer T., **Caldarola, M.**, Kuipers, L. , and Orrit, M. "Circular Dichroism Measurement of Single Metal Nanoparticles Using Photothermal Imaging." Nano Letters ([link](https://pubs.acs.org/doi/10.1021/acs.nanolett.9b03853)).
 
 ### 2018
 
