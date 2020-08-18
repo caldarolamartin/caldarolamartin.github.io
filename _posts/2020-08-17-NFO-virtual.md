@@ -19,7 +19,7 @@ and discussions can be added at the website, so scientific interactions will als
 I believe this combination of live and recorded contact allows participants from all over the world to enjoy the conference and engage in the discussions, without
 reaching saturation since each user can find their own time to watch the video presentations.
 
-I am looking forward to present our results on nanoplasmonics and chirality and to discuss with the NFO community.
+I am looking forward to presenting our results on nanoplasmonics and chirality and to discussing with the NFO community.
 
 
 
