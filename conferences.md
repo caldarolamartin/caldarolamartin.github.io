@@ -6,6 +6,15 @@ permalink: /conferences/
 
 This is a selected list of my presentations at scientific meetings.
 
+## 2020
+
+* **Contributed talk.** [NFO 16](https://nfo16.ece.uvic.ca/), 17-21 August, Virtual due to COVID-19.
+	Title: _"Photothermal Circular Dichroism: improved sensitivity to study chiral nanomaterials"_
+
+* **Contributed talk.** [NFO 16](https://nfo16.ece.uvic.ca/), 17-21 August, Virtual due to COVID-19.
+	Title: _"Time-resolved anti-Stokes photoluminescence of single gold nanospheres"_
+	
+
 ## 2019
 
 
