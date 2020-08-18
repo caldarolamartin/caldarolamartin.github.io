@@ -2,7 +2,7 @@
 layout: post
 title: NFO 16 goes virtual 
 image: /img/NFO16.png
-bigimg: /img/NFO16.png
+bigimg: /img/NFO16_cropped.png
 tags: [research, virtual conference, collaborative work, physics]
 ---
 
