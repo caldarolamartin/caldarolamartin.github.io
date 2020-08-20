@@ -5,13 +5,11 @@ permalink: /publications/
 ---
 
 
-## Pre-prints
+## Peer reviewed articles
 
 ### 2020
 
-* Jollans, T., **Caldarola, M.**, Sivan, Y., and Orrit, M. "Effective electron temperature measurement using time-resolved anti-Stokes photoluminescence." arXiv preprint arXiv:2003.08790 ([link](https://arxiv.org/abs/2003.08790)).
-
-## Peer reviewed articles
+* Jollans, T., **Caldarola, M.**, Sivan, Y., and Orrit, M. "Effective electron temperature measurement using time-resolved anti-Stokes photoluminescence." J. Phys. Chem. A, [link](https://pubs.acs.org/doi/10.1021/acs.jpca.0c06671).  ([Pre-print](https://arxiv.org/abs/2003.08790)).
 
 ### 2019
 
